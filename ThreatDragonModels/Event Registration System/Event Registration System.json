@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Event Registration System",
+    "owner": "Manas Patekar",
+    "description": "The Event Registration System is a Flask-based web application that allows users to register for events through a web browser. The application receives registration information, processes the request, and stores the data in a database.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Event Registration Data Flow",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data flow diagram showing the flow of registration information from the user through the web browser and Flask application to the database."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Security Labs",
+    "threatTop": 0
+  }
+}
